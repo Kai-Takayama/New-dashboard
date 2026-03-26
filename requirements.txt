@@ -2,4 +2,3 @@ yfinance
 pandas
 streamlit
 plotly
-altair<5
